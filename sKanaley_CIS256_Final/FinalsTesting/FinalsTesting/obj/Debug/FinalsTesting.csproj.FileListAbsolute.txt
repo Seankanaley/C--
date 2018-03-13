@@ -1,0 +1,11 @@
+c:\users\seankanaley\documents\visual studio 2015\Projects\FinalsTesting\FinalsTesting\bin\Debug\FinalsTesting.exe.config
+c:\users\seankanaley\documents\visual studio 2015\Projects\FinalsTesting\FinalsTesting\bin\Debug\FinalsTesting.exe
+c:\users\seankanaley\documents\visual studio 2015\Projects\FinalsTesting\FinalsTesting\bin\Debug\FinalsTesting.pdb
+c:\users\seankanaley\documents\visual studio 2015\Projects\FinalsTesting\FinalsTesting\bin\Debug\Student.dll
+c:\users\seankanaley\documents\visual studio 2015\Projects\FinalsTesting\FinalsTesting\bin\Debug\Student.pdb
+c:\users\seankanaley\documents\visual studio 2015\Projects\FinalsTesting\FinalsTesting\obj\Debug\FinalsTesting.csprojResolveAssemblyReference.cache
+c:\users\seankanaley\documents\visual studio 2015\Projects\FinalsTesting\FinalsTesting\obj\Debug\FinalsTesting.Properties.Resources.resources
+c:\users\seankanaley\documents\visual studio 2015\Projects\FinalsTesting\FinalsTesting\obj\Debug\FinalsTesting.csproj.GenerateResource.Cache
+c:\users\seankanaley\documents\visual studio 2015\Projects\FinalsTesting\FinalsTesting\obj\Debug\FinalsTesting.exe
+c:\users\seankanaley\documents\visual studio 2015\Projects\FinalsTesting\FinalsTesting\obj\Debug\FinalsTesting.pdb
+C:\Users\SeanKanaley\Documents\Visual Studio 2015\Projects\FinalsTesting\FinalsTesting\obj\Debug\FinalsTesting.formFinalTest.resources
